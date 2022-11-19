@@ -15,6 +15,3 @@ class QuestionForm(forms.ModelForm):
             'subject': '제목',
             'content': '내용',
         }
-
-
-
